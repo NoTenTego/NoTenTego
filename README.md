@@ -3,7 +3,7 @@
 <h1>Background</h1>
 <p>As a web developer, I have acquired a solid skill set in HTML, CSS, and JavaScript, allowing me to create engaging web applications. In addition, I have spent several years learning Lua as a hobby, primarily utilizing it within the Multi Theft Auto (MTA) environment. However, my current focus is dedicated entirely to advancing my knowledge of JavaScript and its associated frameworks. &#x1F4DA;
 
-For example, one of my works: https://streamable.com/2hh9ve
+For example, one of my MTA:SA Lua scripts: https://streamable.com/2hh9ve
 </p>
 
 <h1>Skills</h1>
